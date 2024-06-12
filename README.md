@@ -41,6 +41,7 @@
 немного больше, чем макимальная точность в рассмотренных пайплайнах на kaggle.
 
 ## Пример работы сервиса
+
 ![](https://github.com/NickolayD/HSE_Image_Classification/blob/main/DL_models/Example.gif)
 
 ## Запуск проекта
